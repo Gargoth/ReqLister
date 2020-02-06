@@ -1,10 +1,9 @@
-English|Your mom|2020/2/7
-Math|Our mom|2020/2/6
-Science|My mom|2020/2/7
-English|Your mom|2021/2/5
-Math|Our mom|2020/4/6
-
-Science|My mom|2020/2/10
-
-No duedate|mukha mo|
-With custom comment|mukha natin|#pangit
+chemistry|Board game final submission|2020/2/19
+chemistry|Long Test|2020/2/12
+physics|Long Test|2020/2/13
+biology|Lab Session|2020/2/7
+english|Read pages 67-216 [focus on chapters "A New Silence Arrives", "Every Single Surviving Word", and "That Last Part Aloud"] [Patron Saints of Nothing]
+entrepreneurship|Business Defense [tentative]|2020/2/29
+csip|Revised Chapters 4-5|2020/2/10
+csip|Visit|#February 15 and 16?
+csip|Reflection Action Paper|2020/2/17

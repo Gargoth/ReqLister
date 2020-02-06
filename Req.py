@@ -17,8 +17,6 @@ class Req:
         
         Req.ReqList[self.category] = sorted(Req.ReqList[self.category], key= lambda a: a.ddate)
 
-# subject*|*content*|*duedate
-
     def fDate(self):
         dday = date(int(self.ddate[:self.ddate.index("/")]), int(self.ddate[self.ddate.index(
             "/")+1: self.ddate.rindex("/")]), int(self.ddate[self.ddate.rindex("/")+1:]))
